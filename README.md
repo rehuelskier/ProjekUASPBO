@@ -11,3 +11,7 @@ Fitur utama • Sistem movement player (atas, bawah, kiri, kanan). • Musuh ber
 Cara menjalankan project • Pastikan Python telah terinstal. • Install library pygame dengan perintah: pip install pygame • Buat folder baru • Buka folder project melalui pycharm • Masukkan kode program • Jalankan file utama: bagian (main.py) • Game akan terbuka dan siap dimainkan.
 
 Penjelasan implementasi OOP Game menggunakan konsep Object Oriented Programming (OOP) seperti inheritance, encapsulation, abstraction, dan polymorphism untuk mengelola berbagai objek dalam permainan seperti Player, Ghost(Zombie), Wall, Coin, Rock, Trap, Door, Switch, dan Treasure.
+
+<img width="1212" height="878" alt="image" src="https://github.com/user-attachments/assets/caf8ec02-b870-4f2a-aa1b-958082268c40" />
+<img width="872" height="418" alt="image" src="https://github.com/user-attachments/assets/2fef1f70-da9a-4258-9bb8-068b1c53091d" />
+<img width="2876" height="1916" alt="image" src="https://github.com/user-attachments/assets/7d024e59-e72c-44d7-a4a1-adc3e4531afb" />
